@@ -44,6 +44,10 @@ This project aimed to help **Roni’s Mac Bar**, a local restaurant, gain deeper
 🐍 **Data Cleaning & Processing**: Python, Pandas, Jupyter Notebook  
 📈 **Sales & Business Analytics**: Trend Analysis, Customer Segmentation, KPI Monitoring  
 
+
+![image](https://github.com/user-attachments/assets/b2d88f1e-dcc1-4e8a-a15d-e94a0127931b)
+![image](https://github.com/user-attachments/assets/197d1c22-449d-4419-9d8a-285b9dc71203)
+
 ---
 
 🚀 This project demonstrated the **power of data-driven decision-making** for small businesses, showcasing how **analytics can optimize restaurant operations**.
